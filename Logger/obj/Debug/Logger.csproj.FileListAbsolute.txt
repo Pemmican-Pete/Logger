@@ -1,0 +1,6 @@
+D:\Source\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\Source\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Source\Logger\Logger\bin\Debug\Logger.dll
+D:\Source\Logger\Logger\bin\Debug\Logger.pdb
+D:\Source\Logger\Logger\obj\Debug\Logger.dll
+D:\Source\Logger\Logger\obj\Debug\Logger.pdb
